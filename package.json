@@ -1,0 +1,23 @@
+{
+  "name": "@yours/nyc-config",
+  "version": "1.0.0",
+  "description": "nyc configuration for @yoursco",
+  "main": "index.json",
+  "scripts": {
+    "test": "exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/yoursco/yours-nyc-config.git"
+  },
+  "keywords": ["config", "nyc", "test", "coverage"],
+  "author": "Brent Anderson <brent@yours.co>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yoursco/yours-nyc-config/issues"
+  },
+  "homepage": "https://github.com/yoursco/yours-nyc-config#readme",
+  "publishConfig": {
+    "access": "public"
+  }
+}
