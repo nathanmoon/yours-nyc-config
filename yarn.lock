@@ -2,6 +2,12 @@
 # yarn lockfile v1
 
 
+"@yoursco/yttrium@^1.0.0":
+  version "1.0.0"
+  resolved "https://registry.yarnpkg.com/@yoursco/yttrium/-/yttrium-1.0.0.tgz#b601899507e7e426bbd909ecd3b6d408796f30ad"
+  dependencies:
+    chalk "^2.3.1"
+
 ansi-styles@^3.2.0:
   version "3.2.0"
   resolved "https://registry.yarnpkg.com/ansi-styles/-/ansi-styles-3.2.0.tgz#c159b8d5be0f9e5a6f346dab94f16ce022161b88"
@@ -65,9 +71,3 @@ supports-color@^5.2.0:
   resolved "https://registry.yarnpkg.com/supports-color/-/supports-color-5.2.0.tgz#b0d5333b1184dd3666cbe5aa0b45c5ac7ac17a4a"
   dependencies:
     has-flag "^3.0.0"
-
-yours-commitlint-config@yoursco/yours-timetracking:
-  version "1.0.0"
-  resolved "git+ssh://git@github.com/yoursco/yours-timetracking.git#3c0d9be4facdc1ebe7df87ddab67af43138ec45d"
-  dependencies:
-    chalk "^2.3.1"

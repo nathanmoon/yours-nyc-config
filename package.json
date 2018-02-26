@@ -27,7 +27,7 @@
     "access": "public"
   },
   "dependencies": {
-    "husky": "^0.14.3",
-    "yours-commitlint-config": "yoursco/yours-timetracking"
+    "@yoursco/yttrium": "^1.0.0",
+    "husky": "^0.14.3"
   }
 }
