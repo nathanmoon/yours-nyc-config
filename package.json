@@ -1,5 +1,5 @@
 {
-  "name": "@yours/nyc-config",
+  "name": "@yoursco/nyc-config",
   "version": "1.0.0",
   "description": "nyc configuration for @yoursco",
   "main": "index.json",

@@ -5,12 +5,12 @@ with test coverage using [nyc](https://github.com/istanbuljs/nyc).
 
 First install the dependencies:
 
-`yarn add --dev yoursco/yours-nyc-config`
+`yarn add --dev @yoursco/nyc-config`
 
 Then write a `.nycrc` that looks something like this:
 
 ```json
 {
-  "extends": "yoursco/yours-nyc-config"
+  "extends": "@yoursco/nyc-config"
 }
 ```
