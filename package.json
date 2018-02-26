@@ -5,13 +5,18 @@
   "main": "index.json",
   "scripts": {
     "test": "exit 0",
-    "commitmsg": "yours-timetracking"
+    "commitmsg": "yttrium-commitmsg-lint"
   },
   "repository": {
     "type": "git",
     "url": "git+ssh://git@github.com/yoursco/yours-nyc-config.git"
   },
-  "keywords": ["config", "nyc", "test", "coverage"],
+  "keywords": [
+    "config",
+    "nyc",
+    "test",
+    "coverage"
+  ],
   "author": "Brent Anderson <brent@yours.co>",
   "license": "ISC",
   "bugs": {

@@ -68,6 +68,6 @@ supports-color@^5.2.0:
 
 yours-commitlint-config@yoursco/yours-timetracking:
   version "1.0.0"
-  resolved "git+ssh://git@github.com/yoursco/yours-timetracking.git#58f0a3c5e69471a5b06ee8bf354c350c96424a22"
+  resolved "git+ssh://git@github.com/yoursco/yours-timetracking.git#3c0d9be4facdc1ebe7df87ddab67af43138ec45d"
   dependencies:
     chalk "^2.3.1"
