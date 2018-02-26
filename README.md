@@ -7,7 +7,7 @@ First install the dependencies:
 
 `yarn add --dev @yoursco/nyc-config`
 
-Then write a `.nycrc` that looks something like this:
+Then write a `.nycrc.json` that looks something like this:
 
 ```json
 {
